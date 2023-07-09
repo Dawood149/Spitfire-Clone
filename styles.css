@@ -50,10 +50,16 @@ main{
     background-clip: \;
 }
 /* ----------------------------------HERO SECTION */
+.hero-section{
+    
+}
 .hero__video{
-    height: 100%;
-    position: relative;
+  position: relative;
     width: 100%;
     -o-object-fit: cover;
     object-fit: cover;
+
+}
+
+.hero__description{
 }
